@@ -116,7 +116,7 @@ is opening a local host connection:
   <img src="https://github.com/feichay10/FTP_server/blob/ee7f0f40b1e2c16caf334046e547d7299eed67f6/assets/Screenshot_8.png" />
 </p>
 
-- *ls*^in passive mode:
+- *ls* in passive mode:
 <p align="center">
   <img src="https://github.com/feichay10/FTP_server/blob/ee7f0f40b1e2c16caf334046e547d7299eed67f6/assets/Screenshot_9.png" />
 </p>
