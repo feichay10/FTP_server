@@ -1,4 +1,5 @@
 # Assignment Socket Programming (FTP_server)
+Practice carried out in C++ in the subject of **Redes y Sistemas Distribuidos** of the 2nd year of Computer Engineering at the University of La Laguna. 
 
 ## Introduction
 This assignment has the objective of learning how to send and receive files to/from
